@@ -1,0 +1,3 @@
+/home/lara/Opencv assignments/task1cpp/CMakeFiles/rebuild_cache.dir
+/home/lara/Opencv assignments/task1cpp/CMakeFiles/edit_cache.dir
+/home/lara/Opencv assignments/task1cpp/CMakeFiles/task1cpp.dir
